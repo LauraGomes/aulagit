@@ -1,0 +1,76 @@
+pwd : diretorio q vc esta
+
+cd.. : retorna no diretorio
+
+ls : lista arquivos e pastas existentes
+
+ls -l : lista arquivos e pastas existentes em formato de lista 
+
+ld - l -d : lista arquivos ocultos e pastas existentes em formato de lista 
+
+git config --global user.name "Laura Gomes": para configurar de forma global com o usuario
+
+git config user.name : visualiza o valor da variavel
+
+git config --global user.email "gomes.laura.ti@gmail.com" : configurar email do usuario
+
+git init : cria repositorio
+
+git status : verifica o status do arquivo
+
+git add nomeDoArquivo.txt : adiciona o arquivo especifico para o ser versionado (separado para commit)
+
+git add . : adiciona todos os arquivos para ser versionado (separado para commit)
+
+git commit -m "Criado TXT como base do projeto" : confirma o versionamento do arquivo conteudo 
+entro "" é o comentario
+
+git log : historico de versoes
+
+clear : limpa tela
+
+gt diff : mostra oq foi modificado
+
+head : ponteiro q indica em q momento vc esta na linha do tempo
+
+master : linha do tempo total
+
+git log --sumarry : mostra os arquivos quando foram criados
+
+git log --graph : mostra a linha do tempo 
+
+git checkout .....numero do hash: navegar entre as versoes
+
+q : sai da navegação
+
+git revert head~0 : retorna na versao indicada
+
+$ git diff  ffa59bd98420d99a4befac2f78507288214ac1f0..f5bab987e3963c0591e85cef7a9952bd60ab71f6  : 
+comparar versoes 
+
+
+* commit 5f93e5e0c4a3cbcad391abe1f2287cf2f6d28385
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
