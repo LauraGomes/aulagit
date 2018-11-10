@@ -45,11 +45,16 @@ q : sai da navegação
 
 git revert head~0 : retorna na versao indicada
 
+
 $ git diff  ffa59bd98420d99a4befac2f78507288214ac1f0..f5bab987e3963c0591e85cef7a9952bd60ab71f6  : 
 comparar versoes 
 
+git checkout nomedoarquivo.txt : desfaz todas as alterações que nao foi commitada
 
-* commit 5f93e5e0c4a3cbcad391abe1f2287cf2f6d28385
+ git checkout  566a2d0531f925d9c44cca002e28172737773c5d novo2.txt : para voltar o arquivo de acordo 
+com a linha do tempo umm arquivo apenas
+
+
 
 
 
